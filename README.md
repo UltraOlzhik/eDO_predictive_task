@@ -10,24 +10,24 @@ This project aims to predict price movements in the H1 time frame based on histo
 ```sh
 eDO_predictive_task/
 ├── data/
-│ ├── raw.csv
-│ ├── processed.csv
+│   ├── raw.csv
+│   ├── processed.csv
 ├── models/
-│ └── trained_model.py
+│   └── trained_model.py
 ├── notebooks/
-│ └── data_distribution_chart.ipynb
+│   └── data_distribution_chart.ipynb
 ├── report/
-│ ├── summary_report.md
-│ └── requirements.txt
+│   ├── summary_report.md
+│   └── requirements.txt
 ├── results/
-│ ├── confusion_matrix.png
-│ └── predictions.csv
+│   ├── confusion_matrix.png
+│   └── predictions.csv
 ├── src/
-│ ├── data_processing.py
-│ ├── feature_engineering.py
-│ ├── model_training.py
-│ ├── predictions.py
-│ └── evaluation.py
+│   ├── data_processing.py
+│   ├── feature_engineering.py
+│   ├── model_training.py
+│   ├── predictions.py
+│   └── evaluation.py
 ├── main.py
 └── README.md
 ```
