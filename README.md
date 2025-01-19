@@ -50,6 +50,7 @@ eDO_predictive_task/
     ```sh
     pip install -r report/requirements.txt
     ```
+4. The directory data/raw is empty. Please add the original eDO_data_M1.csv file there and then proceed.
 
 ## Data Processing
 The data processing pipeline is handled by the `data_processing.py` script. It converts M1 OHLCV data to H1 OHLCV data using resampling and prepares it for feature engineering.
