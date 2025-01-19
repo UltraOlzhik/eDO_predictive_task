@@ -74,8 +74,4 @@ python main.py
 
 # Summary Report
 
-<<<<<<< HEAD
 For a detailed summary of the project, refer to the summary_report.md file in the report directory.
-=======
-For a detailed summary of the project, refer to the summary_report.md file in the report directory.
->>>>>>> c720727 (Initial commit)
