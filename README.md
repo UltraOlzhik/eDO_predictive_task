@@ -7,7 +7,7 @@ Predicting Price Movements from Historical OHLCV Data
 This project aims to predict price movements in the H1 time frame based on historical OHLCV data from the M1 time frame. The process includes data preprocessing, feature engineering, model training, evaluation, and generating predictions.
 
 ## Directory Structure
-
+```sh
 eDO_predictive_task/
 ├── data/
 │ ├── raw.csv
@@ -30,6 +30,7 @@ eDO_predictive_task/
 │ └── evaluation.py
 ├── main.py
 └── README.md
+```
 
 ## Installation
 1. Clone the repository:
